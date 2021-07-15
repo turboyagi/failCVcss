@@ -91,16 +91,24 @@ hr {
 .skill-row {
   width: 50%;
   line-height: 2;
-  margin: auto auto 100px auto;
+  margin: 100px auto 200px auto;
+  text-align: left;
 
 }
 
 /*-----extra-----*/
-.skillsicons {
-  width: 17%;
-  height: auto;
-  margin: 100px auto 40px auto;
+.skillup {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
 
+.skillwhine {
+  width: 25%;
+
+
+  margin-left: 50px;
+  float: right;
 }
 
 .abouout {
